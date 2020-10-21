@@ -1,3 +1,12 @@
 # Tarea de MIPS \#3
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Un ejercicio de traducir _assembler_ de MIPS a código máquina.
+Más info en el [blog](https://la35.net/orga/mips-maquina.html).
+
+## Ejercicio
+
+Leer el código de `hello_world.asm` de este repo y completar la siguiente tabla.
+
+|Instrucción|Tipo|_op_|_rs_|_rt_|_rd_|_shamt_|_funct_|_imm_|_addr_|
+|---|---|---|---|---|---|---|---|---|---|
+| | | | | | | | | |

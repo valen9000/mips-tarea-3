@@ -19,6 +19,8 @@ lw $t6, 4($t0)
 
 add $s2, $t5, $t6
 
+addi $s2, $s2, 5
+
 move $a0, $s2
 
 li $v0, 1
