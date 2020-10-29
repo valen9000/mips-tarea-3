@@ -1,7 +1,7 @@
 # Tarea de MIPS \#3
 
 Un ejercicio sobre la diferencia entre _assembler_ de MIPS y código máquina.
-Más info en el [blog](https://la35.net/orga/mips-maquina.html).
+Más info en el [blog](https://la35.net/orga/mips-maquina.html). Forkear este repo para realizar la tarea.
 
 ## Antes del ejercicio
 
